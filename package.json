@@ -1,0 +1,25 @@
+{
+  "name": "module-styles",
+  "version": "1.0.0",
+  "description": "Add per-module sytles to the DOM, only once",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/regular/tre-module-styles.git"
+  },
+  "keywords": [],
+  "author": "Jan Bölsche <jan@lagomorph.de> (https://regular.codes/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/regular/tre-module-styles/issues"
+  },
+  "homepage": "https://github.com/regular/tre-module-styles#readme",
+  "dependencies": {
+    "indent-string": "^3.2.0",
+    "mutant": "^3.22.1",
+    "strip-indent": "^2.0.0"
+  }
+}
